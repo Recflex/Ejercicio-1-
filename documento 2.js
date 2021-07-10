@@ -1,0 +1,1 @@
+window.prompt("Ingresa tu nombre");
